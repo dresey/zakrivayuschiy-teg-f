@@ -1,1 +1,7 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root{
+--background-gradient:   repeating-linear-gradient(0deg, rgb(231 231 231 / 1) 0px, rgb(231 231 231 / 1) 2px, transparent 2px, transparent 4px),
+                         repeating-linear-gradient(90deg, rgb(231 231 231 / 1) 0px, rgb(231 231 231 / 1) 2px, transparent 2px, transparent 4px),
+                         linear-gradient(180deg, rgb(231 231 231 / 1) 0%, rgb(26 26 26 / 1) 100%);
+}
+
